@@ -8,3 +8,5 @@ data/foggy/*.jpg
 data/original/*.jpg
 data/rainy/*.jpg
 data/snowy/*.jpg
+
+test.py

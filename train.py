@@ -7,8 +7,8 @@ import time
 from datasets.dataset import train_loader
 from datasets.dataset import test_loader
 from config import Parameters
-from matplotlib import pyplot as plt
-import numpy as np
+# from matplotlib import pyplot as plt
+# import numpy as np
 from networks.resnet import ResNet
 from networks.simpleConv import MyNet
 
